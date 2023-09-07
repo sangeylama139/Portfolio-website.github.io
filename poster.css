@@ -82,10 +82,23 @@
   color: white;
 }
 
+
 .hi6 {
   position: relative;
-  top: 4vw;
-  left: 18vw;
+  top: 5vw;
+  left: 16vw;
+}
+
+.hi7 {
+  position: relative;
+  top: 8vw;
+  left: 24vw;
+}
+
+.hi8 {
+  position: relative;
+ top: 11vw;
+  left: 24vw;
 }
 
 
