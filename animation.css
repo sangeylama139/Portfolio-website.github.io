@@ -116,3 +116,7 @@
   top: 15vw;
   left: 25vw;
 }
+
+video {
+  position: relative                                  ;
+}
