@@ -82,9 +82,7 @@
   color: white;
 }
 
-.content {
-  position:absolute;
-}
+
 
 .hi6 {
   position: relative;
@@ -111,12 +109,3 @@
   left: 25vw;
 }
 
-.hi10 {
-  position: relative;
-  top: 15vw;
-  left: 25vw;
-}
-
-video {
-  position: relative                                  ;
-}
