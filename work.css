@@ -224,3 +224,19 @@
   background-color: yellowgreen;
   color: black;
 }
+
+.hi15 {
+  position: absolute;
+  top: 55vw;
+  left:57vw;
+  text-decoration: none;
+  font-family: Arial;
+  font-size: 1.5vw;
+  color: #F26522;
+  padding: 10px;
+}
+
+.hi15:hover {
+  background-color: yellowgreen;
+  color: black;
+}
