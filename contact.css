@@ -5,13 +5,12 @@
   text-decoration: none;
   font-family: Arial;
   font-size: 1.5vw;
-  color: black;
+  color: purple;
   text-align: center;
   padding: 5px;
-  background-color:;
 }
 .hi1:hover {
-  background-color: #F26522;
+  background-color: purple;
   color: white;
 }
 
@@ -22,13 +21,13 @@
   text-decoration: none;
   font-family: Arial;
   font-size: 1.5vw;
-  color: black;
+  color: purple;
   padding: 5px;
   background-color:;
 }
 
 .hi2:hover {
-  background-color: #F26522;
+  background-color: purple;
   color: white;
 }
 
@@ -39,13 +38,13 @@
   text-decoration: none;
   font-family: Arial;
   font-size: 1.5vw;
-  color: black;
+  color: purple;
   padding: 5px;
   background-color:;
 }
 
 .hi3:hover {
-  background-color: #F26522;
+  background-color: purple;
   color: white;
 }
 
@@ -56,13 +55,13 @@
   text-decoration: none;
   font-family: Arial;
   font-size: 1.5vw;
-  color: black;
+  color: purple;
   padding: 5px;
   background-color:;
 }
 
 .hi4:hover {
-  background-color: #F26522;
+  background-color: purple;
   color: white;
 }
 
@@ -73,15 +72,14 @@
   text-decoration: none;
   font-family: Arial;
   font-size: 1.5vw;
-  color: black;
-   padding: 5px;
+  color: purple;
+  padding: 5px;
   background-color:;
 }
 .hi5:hover {
-  background-color: #F26522;
+  background-color: purple;
   color: white;
 }
-
 .hi6 {
   position: absolute;
   width: 50vw;
@@ -92,6 +90,7 @@
   font-size: 1vw;
   line-height: 1vw;
   text-align: center; 
+  color:white;
 }
 
 
